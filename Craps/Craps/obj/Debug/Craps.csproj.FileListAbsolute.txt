@@ -1,0 +1,9 @@
+c:\users\li915d\documents\visual studio 2013\Projects\Craps\Craps\bin\Debug\Craps.exe.config
+c:\users\li915d\documents\visual studio 2013\Projects\Craps\Craps\obj\Debug\Craps.Craps.resources
+c:\users\li915d\documents\visual studio 2013\Projects\Craps\Craps\obj\Debug\Craps.Properties.Resources.resources
+c:\users\li915d\documents\visual studio 2013\Projects\Craps\Craps\obj\Debug\Craps.csproj.GenerateResource.Cache
+c:\users\li915d\documents\visual studio 2013\Projects\Craps\Craps\bin\Debug\Craps.exe
+c:\users\li915d\documents\visual studio 2013\Projects\Craps\Craps\bin\Debug\Craps.pdb
+c:\users\li915d\documents\visual studio 2013\Projects\Craps\Craps\obj\Debug\Craps.exe
+c:\users\li915d\documents\visual studio 2013\Projects\Craps\Craps\obj\Debug\Craps.pdb
+C:\Users\li915d\documents\visual studio 2013\Projects\Craps\Craps\obj\Debug\Craps.csprojResolveAssemblyReference.cache
